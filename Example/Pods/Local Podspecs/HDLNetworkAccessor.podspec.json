@@ -1,0 +1,22 @@
+{
+  "name": "HDLNetworkAccessor",
+  "version": "0.1.0",
+  "summary": "A short description of HDLNetworkAccessor.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/HKC/HDLNetworkAccessor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "HKC": "603743704@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/HKC/HDLNetworkAccessor.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HDLNetworkAccessor/Classes/**/*"
+}

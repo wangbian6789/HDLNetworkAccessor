@@ -1,0 +1,6 @@
+framework module HDLNetworkAccessor {
+  umbrella header "HDLNetworkAccessor-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -7,6 +7,7 @@
 //
 
 #import "HDLViewController.h"
+#import <Test.h>
 
 @interface HDLViewController ()
 
@@ -18,6 +19,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    Test *t = [Test new];
+    t.isTest = YES;
 }
 
 - (void)didReceiveMemoryWarning
